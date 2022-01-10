@@ -1,0 +1,3 @@
+@designervoid:registry=https://npm.pkg.github.com/designervoid
+//npm.pkg.github.com/:_authToken=${GITHUB_TOKEN}
+registry=https://registry.npmjs.org
