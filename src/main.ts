@@ -10,9 +10,9 @@ const app = document.querySelector<HTMLDivElement>('#app')!
 app.innerHTML = `
   <layout-element>
     <main slot="content">
-      <button-primary></button-primary>
+      <button-primary link="https://t.me"></button-primary>
       <spacing-block type="top" payload="12"></spacing-block>
-      <button-outline></button-outline>
+      <button-outline link="https://github.com"></button-outline>
       <spacing-block type="top" payload="12"></spacing-block>
     </main>
   </layout-element>
