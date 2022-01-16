@@ -1,6 +1,6 @@
 # ton-design-system-vite-vanilla-ts
 
-Этот репозиторий используется как пример использования веб-компонента из [пакета](https://github.com/designervoid/ton-design-system/packages/1188473), который собирается из [репозитория](https://github.com/designervoid/ton-design-system)
+Этот репозиторий используется как пример использования веб-компонента из [пакета](https://github.com/designervoid/ton-design-system/packages/1188520), который собирается из [репозитория](https://github.com/designervoid/ton-design-system)
 
 ## Quick start
 
