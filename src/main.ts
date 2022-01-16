@@ -9,11 +9,11 @@ const app = document.querySelector<HTMLDivElement>('#app')!
 
 app.innerHTML = `
   <layout-element>
-  <main slot="content">
-    <button-primary></button-primary>
-    <spacing-block type="top" payload="12"></spacing-block>
-    <button-outline></button-outline>
-    <spacing-block type="top" payload="12"></spacing-block>
-  </main>
+    <main slot="content">
+      <button-primary></button-primary>
+      <spacing-block type="top" payload="12"></spacing-block>
+      <button-outline></button-outline>
+      <spacing-block type="top" payload="12"></spacing-block>
+    </main>
   </layout-element>
 `
