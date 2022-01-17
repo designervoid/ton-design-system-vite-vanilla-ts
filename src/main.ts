@@ -10,6 +10,7 @@ const app = document.querySelector<HTMLDivElement>('#app')!
 app.innerHTML = `
   <layout-element>
     <main slot="content">
+        <spacing-block type="top" payload="12"></spacing-block>
         <card-light>
           <div slot="content">
             <button-primary link="https://t.me"></button-primary>
@@ -89,6 +90,7 @@ app.innerHTML = `
             <gem-symbol></gem-symbol>
           </div>
         </card-light>
+        <spacing-block type="top" payload="12"></spacing-block>
     </main>
   </layout-element>
 `
