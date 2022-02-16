@@ -1,4 +1,3 @@
-// @ts-ignore
 import '@designervoid/ton-design-system/src/index.css';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
