@@ -1,11 +1,18 @@
-# ton-design-system-vite-vanilla-ts
+# TON Design System Vite Vanilla TS
 
-Этот репозиторий используется как пример использования веб-компонента из [пакета](https://github.com/designervoid/ton-design-system/packages/1188520), который собирается из [репозитория](https://github.com/designervoid/ton-design-system)
+## Available languages
+
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/designervoid/ton-design-system-vite-vanilla-ts/blob/master/README.md)
+
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/designervoid/ton-design-system-vite-vanilla-ts/blob/master/README.ru.md)
+
+## Overview
+
+This repo shows how to build components with [TON Design System](https://github.com/designervoid/ton-design-system)
 
 ## Quick start
 
-`Github` не дает загружать публичные пакеты без токена, поэтому требуется задать переменную `GITHUB_TOKEN`(1), создать файл `.npmrc` (2), установить пакеты (3), запустить `dev` сервер (4).
-
+`Github` rejecting downloads packages without token, so you need set environment variable `GITHUB_TOKEN` (1), you should create `.npmrc` (2), download packages (3), run `dev` server (4).
 
 ### Development environment
 
@@ -29,6 +36,6 @@ npm run preview -- --host
 
 ![Main page](docs/images/example.png)
 
-# License
+## License
 
 MIT
