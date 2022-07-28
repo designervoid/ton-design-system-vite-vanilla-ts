@@ -1,4 +1,4 @@
-# Crypto Guides
+# TON Design System Vite Vanilla TS
 
 ## Доступные языки
 
